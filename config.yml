@@ -5,7 +5,7 @@ Log:
 DnsConfigPath: # ./dns.json Path to dns config 
 Nodes:
   -
-    PanelType: "V2board" # Panel type: SSpanel, V2board
+    PanelType: "NewV2board" # Panel type: SSpanel, V2board
     ApiConfig:
       ApiHost: "uma.erohime.top" # 修改这里
       ApiKey: "61caaf64-2550-4a55-ac30-223fc25f849d" # 修改这里
