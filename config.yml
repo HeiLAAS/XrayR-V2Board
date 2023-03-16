@@ -5,10 +5,10 @@ Log:
 DnsConfigPath: # ./dns.json Path to dns config 
 Nodes:
   -
-    PanelType: "NewV2board" # Panel type: SSpanel, V2board
+    PanelType: "V2board" # Panel type: SSpanel, V2board
     ApiConfig:
       ApiHost: "uma.erohime.top" # 修改这里
-      ApiKey: "heng907123" # 修改这里
+      ApiKey: "61caaf64-2550-4a55-ac30-223fc25f849d" # 修改这里
       NodeID: 1
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan
       Timeout: 30 # Timeout for the api request
